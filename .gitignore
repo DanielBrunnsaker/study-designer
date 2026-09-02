@@ -1,0 +1,42 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checkers / linters
+.mypy_cache/
+.ruff_cache/
+.pytype/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Editor / OS cruft
+.DS_Store
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
