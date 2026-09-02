@@ -1,6 +1,6 @@
 # Study Designer
 
-A chat-first Streamlit app for planning metabolomics MS study run sequences (samples, QCs, blanks, batching) using a local LLM via [Ollama](https://ollama.com).
+A chat-first Streamlit app for planning metabolomics MS study run sequences (samples, QCs, blanks, batching) using either structured inputs, or unstructured inputs via a local LLM ([Ollama](https://ollama.com)). 
 
 ## Setup
 
